@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/franklin-w-dixon/hunting-for-hidden-gold</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-04-19T17:41:38Z</dc:date>
+		<meta property="dcterms:modified">2024-04-19T17:41:38Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -53,16 +53,16 @@
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">5</meta>
-		<dc:description id="description">Two sleuths unravel a mystery about stolen gold.</dc:description>
+		<dc:description id="description">Two boy sleuths unravel a mystery about stolen gold.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;During an extended winter holiday, the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy boys&lt;/a&gt; are summoned to Montana by their father to help with a case: recovering stolen gold. The trip out West is anything but easy; the Boys’ fame and success as amateur detectives has reached their father’s enemies who are determined to undermine a reunion. Facing dangers from man, beast, and nature, the Hardy boys embark on a journey to recover the missing gold and bring truth and justice to the small mining town of Lucky Bottom.&lt;/p&gt;
+			&lt;p&gt;During an extended winter holiday, the &lt;a href="https://standardebooks.org/collections/the-hardy-boys"&gt;Hardy boys&lt;/a&gt; are summoned to Montana by their father to help with a case: recovering stolen gold. The trip out West is anything but easy; the boys’ fame and success as amateur detectives has reached their father’s enemies, who are determined to undermine a reunion. Facing dangers from man, beast, and nature, the Hardy boys embark on a journey to recover the missing gold and bring justice to the small mining town of Lucky Bottom.&lt;/p&gt;
 			&lt;p&gt;This is the fifth book of the Hardy boys series, first published in 1928. While the author is credited to be &lt;a href="https://standardebooks.org/ebooks/franklin-w-dixon"&gt;Franklin W. Dixon&lt;/a&gt;, in reality, Leslie MacFarlane and Edward Stratemeyer are primarily responsible for the early volumes, including this one. This Standard Ebooks edition is based on the original 1928 text.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72958</dc:source>
 		<dc:source>https://archive.org/details/hunting-for-hidden-gold</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">43417</meta>
+		<meta property="se:reading-ease.flesch">83.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hunting_for_Hidden_Gold</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/franklin-w-dixon_hunting-for-hidden-gold</meta>
 		<dc:creator id="author">Franklin W. Dixon</dc:creator>
@@ -94,6 +94,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
