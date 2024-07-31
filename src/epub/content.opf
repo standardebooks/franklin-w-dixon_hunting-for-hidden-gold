@@ -61,7 +61,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/72958</dc:source>
 		<dc:source>https://archive.org/details/hunting-for-hidden-gold</dc:source>
-		<meta property="se:word-count">43417</meta>
+		<meta property="se:word-count">43416</meta>
 		<meta property="se:reading-ease.flesch">83.76</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Hunting_for_Hidden_Gold</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/franklin-w-dixon_hunting-for-hidden-gold</meta>
